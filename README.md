@@ -50,7 +50,7 @@ Feito by @B.Click - Bonfim Araújo 👋🏻 [Venha crescer junto!](https://wa.li
 
 <p align="center">
   <a href="https://wa.link/d522sq" target="_blank">
-    <img align="center" src="https://github.com/Araujobonfim18/-B.Click_85/blob/main/Bonfim%20Ara%C3%BAjo.png?raw=true" alt="banner"/>
+    <img align="center" src="https://github.com/Araujobonfim18/-B.Click_85/blob/main/BClick_footer.png?raw=true" alt="banner"/>
   </a>
 </p>
 
