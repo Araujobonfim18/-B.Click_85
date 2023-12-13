@@ -1,4 +1,4 @@
-<h1 align="center">Bonfim Araújo - @B.Click</h1>
+<h1 align="center">🚀 @B.Click - PAGE - Bonfim Araújo🚀</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -33,11 +33,11 @@ Esse é o projeto de minha Página Web, onde meus clientes e colaboradores podem
 ## ⚡️ Saiba mais
 
 - Website oficial: [https://www.phoenixframework.org](https://www.phoenixframework.org/)
-- Rede Social: [https://hexdocs.pm/phoenix/overview.html](https://hexdocs.pm/phoenix/overview.html)
-- Documentação: [https://hexdocs.pm/phoenix](https://hexdocs.pm/phoenix)
-- GitHub: [https://github.com/phoenixframework/phoenix](https://github.com/phoenixframework/phoenix)
+- instagram: [https://www.instagram.com/bclick85/](https://www.instagram.com/bclick85/)
+- Documentação: [https://github.com/Araujobonfim18/BCLick-WebSite](https://github.com/Araujobonfim18/BCLick-WebSite)
+- GitHub: [https://github.com/Araujobonfim18](https://github.com/Araujobonfim18)
 
-## 📄 Licença
+## 📜 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
@@ -52,7 +52,7 @@ Feito by @B.Click - Bonfim Araújo 👋🏻 [Venha crescer junto!](https://wa.li
 
 <p align="center">
   <a href="https://wa.link/d522sq" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
+    <img align="center" src="https://github.com/Araujobonfim18/-B.Click_85/blob/main/Bonfim%20Ara%C3%BAjo.png?raw=true" alt="banner"/>
   </a>
 </p>
 
