@@ -1,4 +1,4 @@
-<h1 align="center">🚀 @B.Click - PAGE - Bonfim Araújo🚀</h1>
+<h1 align="center">🚀@B.Click - PAGE - Bonfim Araújo🚀</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/static/v1?label=B&message=CLICK&color=8257E5&labelColor=000000" alt="B.CLICK" />
 </p>
 
-![Código e terminal com testes](./.github/preview.png)
+![Preview](https://github.com/Araujobonfim18/-B.Click_85/blob/main/previ_BCLICK.png?raw=true)
 
 ## ✨ Tecnologias
 
