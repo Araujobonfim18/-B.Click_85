@@ -20,10 +20,10 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Html](https://github.com/elixir-lang/elixir)
-- [Css](https://github.com/phoenixframework/phoenix)
-- [JavaScript](https://github.com/elixir-ecto/ecto)
-- [Json](https://github.com/elixir-lang/elixir/blob/master/lib/ex_unit/lib/ex_unit.ex)
+- [Html]
+- [Css]
+- [JavaScript]
+- [Json]
 
 ## 💻 Projeto
 
